@@ -8,6 +8,7 @@ As a Data Analyst for LendingClub, your task is to build a simple model to predi
 * FICO score
 * Debt-to-income ratio
 * Delinquencies and inquiries
+
 The final output includes custom risk categorization, FICO classification, and multiple visualizations to guide decision-making.
 
 ## 📂 Datasets
