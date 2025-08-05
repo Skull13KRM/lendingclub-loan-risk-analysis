@@ -45,22 +45,22 @@ A reusable class for computing column statistics like mean and median.
 
 Make sure you have the following installed:
 
-pip install pandas matplotlib seaborn openpyxl
+      pip install pandas matplotlib seaborn openpyxl
 
 ### Running the Script
-1. Clone the repository
+Clone the repository
 
-    * git clone https://github.com/Skull13KRM/lendingclub-loan-analysis.git
+      git clone https://github.com/Skull13KRM/lendingclub-loan-analysis.git
 
-    * cd lendingclub-loan-analysis
+      cd lendingclub-loan-analysis
 
-2. Place loandataset.xlsx and customer_data.csv in the project root folder.
+Place loandataset.xlsx and customer_data.csv in the project root folder.
 
-3. Run the script:
+Run the script:
 
-    * python loan_analysis.py
+    python loan_analysis.py
 
-4. Visualizations and console outputs will display key findings.
+Visualizations and console outputs will display key findings.
 
 ## 📬 Contact
 If you have any questions or suggestions, feel free to reach out via [LinkedIn](www.linkedin.com/in/keegan-murphy-3a3b99218) or check out my [Portfolio](https://keegan-murphy-portfolio.notion.site/Keegan-Murphy-Portfolio-191c89a2d2f380f4a3e7f98aeb368139).
