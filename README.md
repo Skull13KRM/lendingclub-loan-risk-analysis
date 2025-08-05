@@ -34,7 +34,7 @@ A reusable class for computing column statistics like mean and median.
 * Risk category vs interest rate (boxen plot)
 * Composite subplot with 4 key insights
 
-<p align="center"> <img src="my_plot.png" width="600" alt="Composite subplot with 4 key insights"> </p>
+<p align="center"> <img src="Composite subplot with 4 key insights.png" width="600" alt="Composite subplot with 4 key insights"> </p>
 
 ## 🛠 Technologies & Libraries
 * Python 3
