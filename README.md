@@ -65,4 +65,4 @@ Run the script:
 Visualizations and console outputs will display key findings.
 
 ## 📬 Contact
-If you have any questions or suggestions, feel free to reach out via [LinkedIn](www.linkedin.com/in/keegan-murphy-3a3b99218) or check out my [Portfolio](https://keegan-murphy-portfolio.notion.site/Keegan-Murphy-Portfolio-191c89a2d2f380f4a3e7f98aeb368139).
+If you have any questions or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/keegan-murphy-3a3b99218) or check out my [Portfolio](https://keegan-murphy-portfolio.notion.site/Keegan-Murphy-Portfolio-191c89a2d2f380f4a3e7f98aeb368139).
